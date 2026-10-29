@@ -48,6 +48,19 @@ This project analyze an Elnino dataset containing 50 rows and 10 collumn using m
        <img width="527" height="373" alt="image" src="https://github.com/user-attachments/assets/843c0571-b265-484e-b0b8-830e3b033c8a" />
        <img width="513" height="381" alt="image" src="https://github.com/user-attachments/assets/56f66a54-4935-4401-8a1b-eee0c79dcad9" />
        <img width="607" height="387" alt="image" src="https://github.com/user-attachments/assets/db7caade-f36e-4a75-8933-19ab123265b1" />
+       ## Challenges
+       -insecurity in the area and it make the data collection difficult
+       -Language barrier there were alot of misunderstanding due to language difference
+       - poor nertwork in there hence making communication difficult
+       - lack of accurate data due to missing value
+         ## solution
+         - make sure there is accurate data
+         - check data missing before giving out the value or results
+         - There should be a translator before going to the field
+           
+ 
+          
+       
 
 
 
