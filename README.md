@@ -57,6 +57,19 @@ This project analyze an Elnino dataset containing 50 rows and 10 collumn using m
          - make sure there is accurate data
          - check data missing before giving out the value or results
          - There should be a translator before going to the field
+           ## lincense
+          ** The MIT license was used**
+         **Free to use**:
+         -You can copy
+         -Easy to merge
+         - You can distribute easly
+         - Sell copy of software free
+           **commercial intergratation**
+           **NO copy left**
+           ## Collaborators
+           - Brenda kimuge
+           - Lilian Omondi 
+         
            
  
           
