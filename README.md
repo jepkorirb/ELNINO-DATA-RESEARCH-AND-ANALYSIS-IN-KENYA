@@ -1,4 +1,4 @@
-# ELNIO DATA RESEARCH AND ANALYSIS IN KENYA
+# ELNINO DATA RESEARCH AND ANALYSIS IN KENYA
 ## Overview
 Elinino it is a natural climatae phenomenol that occcur when the sea surface temperature in the central and eastern tropical pacific ocean become warmerthan.It can influence rainfall,temperatureand weather pattern in different parts of the world
 This project analyze an Elnino dataset containing 50 rows and 10 collumn using microsoft Excel.The aim wwas to calculate performances,create charts and pivot table and organize the performance.
